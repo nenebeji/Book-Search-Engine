@@ -69,7 +69,9 @@ Email: nenebeji@gmail.com
 
 ## Links
 
-https://github.com/nenebeji/Book-Search-Engine
+Live URL: https://google-books.herokuapp.com/
+
+Github: https://github.com/nenebeji/Book-Search-Engine
 
 ## License
 
